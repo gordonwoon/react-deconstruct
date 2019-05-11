@@ -6,17 +6,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gordonwoon/react-deconstruct.git"
+  },
   "keywords": [
-    "recompose",
+    "react",
+    "higher-order",
+    "components",
     "modular",
-    "split",
-    "function",
-    "logic",
     "deconstruct"
   ],
   "author": "Gordon Woon <gordonwoon@live.com> (https://github.com/gordonwoon)",
   "license": "ISC",
   "dependencies": {
     "react": "^15.6.2"
-  }
+  },
+  "homepage": "https://github.com/gordonwoon/react-deconstruct"
 }
