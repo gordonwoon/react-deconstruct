@@ -1,0 +1,22 @@
+{
+  "name": "react-deconstruct",
+  "version": "1.0.0",
+  "description": "A react helper to deconstruct complex logic within a component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "recompose",
+    "modular",
+    "split",
+    "function",
+    "logic",
+    "deconstruct"
+  ],
+  "author": "Gordon Woon <gordonwoon@live.com> (https://github.com/gordonwoon)",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.6.2"
+  }
+}
