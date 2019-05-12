@@ -1,4 +1,4 @@
-A react helper to deconstruct complex logic within a component.
+A react helper to deconstruct complex logic within a component by splitting up state and functions into different files.
 
 ## Installation
 ---

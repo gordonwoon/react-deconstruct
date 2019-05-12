@@ -1,7 +1,7 @@
 {
   "name": "react-deconstruct",
-  "version": "1.0.1",
-  "description": "A react helper to deconstruct complex logic within a component",
+  "version": "1.0.2",
+  "description": "A react helper to deconstruct complex logic within a component by splitting up state and functions into different files.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,7 +15,9 @@
     "higher-order",
     "components",
     "modular",
-    "deconstruct"
+    "deconstruct",
+    "split",
+    "files"
   ],
   "author": "Gordon Woon <gordonwoon@live.com> (https://github.com/gordonwoon)",
   "license": "ISC",
